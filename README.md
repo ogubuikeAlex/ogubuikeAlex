@@ -1,82 +1,82 @@
-# Holla, Meet Alexandra! 👋
+# Alexandra | Architecting Solutions for Hard Problems 👋
 
-Alex is a software/blockchain engineer and technical writer🙂<br />
-Two words that best describe her? Proactive and Result-driven <br /> 
-**She likes to get things done WELL and QUICKLY.**
+I'm a Systems Architect and Engineer who tackles the challenging problems others avoid at the intersection of AI, Blockchain, and Cloud Engineering.<br><br>I believe in elegantly designed solutions that scale, and I'm documenting my journey through the hardest technical challenges in emerging tech.
+
+> Currently building an open-source platform demonstrating how modern engineering practices can reduce deployment times by 80% while maintaining enterprise-grade reliability.
 
 
-She is a Google WomenTechmaker Ambassador and a Product Pro ambassador at Consensys. When she is not designing product architecture or coding,
-she offers mentorships to tech newbies.<br />
-In terms of personality, she is easy going and probably one of the most energetic individuals you may ever meet.
-
-## 📚 Libraries and Articles
-- She loves to give the most simplified explanations to complex programming concepts. [You can check out some of her articles here](https://medium.com/@ogubuikealex)
-- She has built some really cool OPEN SOURCE .NET libraries on Nugget Packages [Check them out here](https://www.nuget.org/profiles/KingAlexandra)
-- She has also published well-tested and helpful OPEN SOURCE NPM packages, [Check them out here](https://www.npmjs.com/settings/kingalex/packages) 
-
-## 🛠 Skills
-
-### Programming Language
-C#, Javascript, Solidity, Typescript<br />
-
-### Framework/Library
-🪟 ASP.NetCore <br /> 
-🪟 NodeJS <br />
-🪟 NestJS <br />
-🪟 React <br />
-🪟 Hardhat-Framework <br />
-🪟 ChainLink-SDK <br />
-🪟 OpenZeppelin-SDK <br />
-🪟 EtherJs<br />
-🪟 IPFS-HTTP-Client <br />
-🪟 web3.storage <br />
-🪟 Slither <br />
-🪟 Echnida <br />
-<br />
-
-### Database
-🛞 MySQL <br />
-🛞 Xata <br />
-🛞 MongoDB <br />
-🛞 SSMS <br />
-🛞 MongoDB Atlas <br />
-<br />
-
-### DevOps Tools
-🈺 Docker <br />
-🈺 Kubernetes <br />
-🈺 System Design <br />
-🈺 CICD via GitHub Actions <br />
-🈺 AWS <br />
-
-### Unit and Integration Testing
-🧪 xUnit <br />
-🧪 Chai <br />
-🧪 Mocha <br />
-🧪 Waffle <br />
-<br />
+**My philosophy: Complex systems demand elegant solutions designed with precision and implemented with excellence.**
 
 # 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ogubuikeAlex) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogubuike-alex/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OgubuikeAlex)
 
+## 🔮 Current Focus
+I'm mastering the hard problems at the convergence of:
+- System Design & Architecture
+- DevOps Engineering
+- Cloud Infrastructure
+- AI & Blockchain Integration
+
+## 🛠 Technical Arsenal
+### Systems Architecture
+- Distributed Systems Design
+- Scalable Database Architecture
+- Microservices Patterns
+- High-Performance System Optimization
+
+### Engineering & Development
+- C#, JavaScript, TypeScript, Solidity
+- ASP.NET Core, Node.js, NestJS, React
+- Blockchain: Hardhat, ChainLink-SDK, OpenZeppelin, EtherJS
+- IPFS, Web3.storage, Slither, Echnida
+
+### Infrastructure & Operations
+- Docker, Kubernetes
+- CI/CD via GitHub Actions
+- Infrastructure as Code
+- AWS Cloud Architecture
+- Performance Monitoring & Optimization
+
+### Database Systems
+- MySQL, MongoDB, SSMS, MongoDB Atlas, Xata
+- Data Partitioning & Sharding Strategies
+- Cache Implementation Patterns
+
+### Quality Assurance
+- xUnit, Chai, Mocha, Waffle
+- Test-Driven Development
+- Infrastructure Testing
+
+## 📚 Thought Leadership
+I share my experiences solving complex technical problems twice weekly. Check out [my articles](https://medium.com/@ogubuikealex) where I break down complex engineering concepts into practical insights.
+
+## Open Source Contributions
+- [.NET libraries on Nuget Packages](https://www.nuget.org/profiles/KingAlexandra)
+- [NPM packages](https://www.npmjs.com/settings/kingalex/packages)
+- Building reference architectures for hard technical problems
+
+## 🌱 Current Journey
+- Building cloud-native distributed systems that scale predictably
+- Implementing DevOps practices that automate away complexity
+- Designing infrastructure for emerging AI applications
+- Documenting the process of tackling increasingly difficult technical challenges
+
+## 🤝 Let's Connect
+I'm open to collaboration on challenging projects that push technical boundaries, particularly in:
+- Web3 infrastructure
+- High-performance cloud architecture
+- AI infrastructure optimization
+- System design for scale-intensive applications
+
+Reach me at: ogubuikealex@gmail.com
+_Google WomenTechmaker Ambassador | Product Pro Ambassador at Consensys | Mentor to tech professionals_
+Pronouns: She/Her
+⚡️ I believe the most difficult technical challenges are the most rewarding to solve.
+
 <a href="https://app.daily.dev/KingAlex"><img src="https://api.daily.dev/devcards/829c9673ab6340778250feaebdca8d80.png?r=4rc" width="400" alt="Ogubuike Alexandra's Dev Card"/></a>
 
-# Preview Alex👀🤝🏽
-👩‍💻 She's currently building and contributing to open source projects
 
-🧠 She's currently learning about designing and building cloud based distributed systems
 
-👯‍♀️ She's open to collaboration on building Web2.5 and Web-2 based projects
-
-🤔 She's looking for help with contibuting to web3 based open source projects
-
-💬 Ask her about the web3 ecosystem, .Net, Personal/Productivity hacks
-
-📫 How to reach Alex? ==> ogubuikealex@gmail.com
-
-😄 Pronouns...(She/Her)
-
-⚡️She conciously learns at least 5 new things everyday
 
