@@ -75,8 +75,6 @@ _Google WomenTechmaker Ambassador | Product Pro Ambassador at Consensys | Mentor
 Pronouns: She/Her
 ⚡️ I believe the most difficult technical challenges are the most rewarding to solve.
 
-<a href="https://app.daily.dev/KingAlex"><img src="https://api.daily.dev/devcards/829c9673ab6340778250feaebdca8d80.png?r=4rc" width="400" alt="Ogubuike Alexandra's Dev Card"/></a>
-
 
 
 
