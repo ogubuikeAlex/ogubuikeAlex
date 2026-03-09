@@ -27,7 +27,7 @@ I'm mastering the hard problems at the convergence of:
 - High-Performance System Optimization
 
 ### Engineering & Development
-- C#, JavaScript, TypeScript, Solidity
+- Python, Rust, JavaScript, TypeScript, Solidity
 - ASP.NET Core, Node.js, NestJS, React
 - Blockchain: Hardhat, ChainLink-SDK, OpenZeppelin, EtherJS
 - IPFS, Web3.storage, Slither, Echnida
