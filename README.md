@@ -2,7 +2,7 @@
 
 I'm a Systems Architect and Engineer who tackles the challenging problems others avoid at the intersection of AI, Blockchain, and Cloud Engineering.<br><br>I believe in elegantly designed solutions that scale, and I'm documenting my journey through the hardest technical challenges in emerging tech.
 
-> Currently building an Ai security based solutions
+> Currently building Ai security based solutions
 
 
 **My philosophy: Complex systems demand elegant solutions designed with precision and implemented with excellence.**
