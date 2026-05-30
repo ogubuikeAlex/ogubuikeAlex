@@ -30,14 +30,14 @@ I am a product engineer and in the past 6 years I have worn a lot of hats:
 
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogubuike-alex/)
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://tinyurl.com/ogubuike-alex-project-catalog)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.ogubuikealexa.xyz/)
 [![Resume](https://img.shields.io/badge/resume-1DA1F2?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/ogubuikeAlex)
 
  
 ---
 
 ## 🛠️ My Technical Toolkit
-I generally treat tools as means to an end and my identity as an engineer aint tied to them. My focus is usually on quickly learning whatever is necessary to unblock the team and ensure we aren't accumulating tech debt.
+I generally treat tools as means to an end and my identity as an engineer is not tied to them. My focus is usually on quickly learning whatever is necessary to unblock the team and ensure we aren't accumulating tech debt.
 
 ### Core Engineering & Databases
 *   **Languages & Frameworks:** Python, FastAPI, Flask, Django, TypeScript, Node.js, React, Next.js, NestJS, C#, .NET Core (Web api and MVC)
