@@ -31,7 +31,7 @@ I am a product engineer and in the past 6 years I have worn a lot of hats:
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogubuike-alex/)
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.ogubuikealexa.xyz/)
-[![Resume](https://img.shields.io/badge/resume-1DA1F2?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/ogubuikeAlex)
+[![Resume](https://img.shields.io/badge/resume-1DA1F2?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1QK-Vm7s_s42kTW6Ow5WbPvs1vUwkf7WJ/view?usp=sharing)
 
  
 ---
